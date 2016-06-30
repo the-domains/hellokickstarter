@@ -1,14 +1,14 @@
-layout_spectrum: 0.9428671356290579
-typography_spectrum: 0.7008605487644672
+layout_spectrum: 0.9238921634387225
+typography_spectrum: 0.9171519873198122
 color:
-  brandStrength: 0.6108565486501902
-  lightness: 0.9103237201925367
-  saturation: 0.03640594845637679
-  rhythmicContrast: 0.4020301843993366
+  brandStrength: 0.3744686252903193
+  lightness: 0.873266845010221
+  saturation: 0.9897998720407486
+  rhythmicContrast: 0.18765713670291007
   brandColors:
-    - '#F6F792'
-    - '#333745'
-    - '#77C4D3'
-    - '#DAEDE2'
-    - '#EA2E49'
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
 name: hellokickstarter
