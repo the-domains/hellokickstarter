@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Hello, Kickstarter]]></title>
         <description><![CDATA[Hello, Kickstarter]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hellokickstarter/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 17:26:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 30 Jun 2016 17:37:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hellokickstarter/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello, Kickstarter]]></title>
-            <description><![CDATA[<article><h1>Hello, Kickstarter</h1><h2>My Annual Kickstarter Reward Breakdown (2015-16)</h2><p>The first project I backed this past year was Goetia by Square-Enix. It’s a point & click mystery adventure for Mac & PC. It had the big name publisher behind it and the art style was intriguing. Over 1,000 people agreed and the game was delivered on-time and is currently available to purchase on Steam.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2a238bc-35d6-40ae-b3cd-2b1f99f7e8bc.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Hello, Kickstarter</h1><h2>My Annual Kickstarter Reward Breakdown</h2><p>Every year I break down the Kickstarters I back and </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de201622-77bc-4754-bf27-b39149d39e78.png"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2a238bc-35d6-40ae-b3cd-2b1f99f7e8bc.jpg</link>
             <guid isPermaLink="false">6e2076e0-9187-42e1-8cec-958c19222640</guid>
-            <pubDate>Thu, 30 Jun 2016 17:26:48 GMT</pubDate>
+            <pubDate>Thu, 30 Jun 2016 17:37:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
